@@ -1,0 +1,1 @@
+This repository helps you to understand how you can deal with different types of data.
