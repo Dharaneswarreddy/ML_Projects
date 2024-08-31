@@ -1,1 +1,1 @@
-This repository helps you to understand how you can deal with different types of data.
+This repository serves as a resource for learning how to work with various types of data. It includes projects I've completed for practice, some inspired by YouTube tutorials. I'll also be uploading projects that I've personally developed on my own.
